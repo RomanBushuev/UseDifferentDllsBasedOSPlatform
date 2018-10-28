@@ -1,5 +1,5 @@
 # UseDifferentDllsBasedOSPlatform
-If you want to use different dlls for different platform in one project, you can need to editcsproj
+If you want to use different dlls for different platform in one project, you need to edit csproj
 
 1. Build lib 'ClassLibrary2' base on x86 and save the given dll to folder .\ConsoleApp2\86;
 2. Build lib 'ClassLibrary2' base on x64 and save the given dll to folder .\ConsoleApp2\64;
